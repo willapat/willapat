@@ -10,7 +10,7 @@ I'm a Computer Science student at **Georgia Institute of Technology** with a 4.0
 **Libraries:** Pandas
 
 ## 🚀 Featured Projects
-### [GT Chatbot](link-to-repo)
+### [GT Chatbot](https://github.com/willapat/gt_chatbot.git)
 A Flask-based REST API serving information on 100+ Georgia Tech organizations with full CRUD operations and MongoDB database.
 - Optimized search queries to under 100ms using indexed fields
 - Automated database population with Python/Pandas for 400+ entries
