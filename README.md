@@ -15,7 +15,7 @@ A Flask-based REST API serving information on 100+ Georgia Tech organizations wi
 - Optimized search queries to under 100ms using indexed fields
 - Automated database population with Python/Pandas for 400+ entries
 
-### [Yes Chef](link-to-repo)
+### [Yes Chef](https://github.com/willapat/Yes-Chef.git)
 Social recipe-sharing iOS application built with SwiftUI and Firebase.
 - Implemented user authentication and real-time database syncing
 - Created reusable SwiftUI components, reducing development time by 30%
