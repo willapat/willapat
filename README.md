@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Will Patton 👋
 
-<!--
-**willapat/willapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Computer Science student at **Georgia Institute of Technology** with a 4.0 GPA, passionate about building full-stack applications and iOS apps. I love solving algorithmic problems and creating software that makes an impact.
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+**Languages:** Python, Java, JavaScript, Swift, HTML/CSS  
+**Frameworks & Technologies:** Flask, Firebase, SwiftUI, MongoDB  
+**Developer Tools:** Git, Xcode, VS Code, IntelliJ  
+**Libraries:** Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+### [GT Chatbot](link-to-repo)
+A Flask-based REST API serving information on 100+ Georgia Tech organizations with full CRUD operations and MongoDB database.
+- Optimized search queries to under 100ms using indexed fields
+- Automated database population with Python/Pandas for 400+ entries
+
+### [Yes Chef](link-to-repo)
+Social recipe-sharing iOS application built with SwiftUI and Firebase.
+- Implemented user authentication and real-time database syncing
+- Created reusable SwiftUI components, reducing development time by 30%
+
+## 📫 Connect With Me
+- **Email:** wpatton31@gatech.edu
+- **LinkedIn:** [linkedin.com/in/willapatton](https://linkedin.com/in/willapatton)
+- **Phone:** (404) 578-8071
+
+## 🌱 Currently
+- Member of iOS Club at Georgia Tech, learning best practices through code reviews and workshops
+- Participating in Big Data Big Impact, exploring data science applications in real-world domains
+
+---
+
+💡 *Always open to collaborating on interesting projects and learning new technologies!*
